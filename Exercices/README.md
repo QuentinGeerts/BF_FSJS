@@ -1,6 +1,6 @@
 # Exercices - Énoncés
 
-## Modules
+## Modules - Créer un programme *NODE*
 
 - Il dit être configuré avec NPM
 - Il doit utiliser le système des modules
